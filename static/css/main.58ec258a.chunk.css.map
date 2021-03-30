@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,MACE,iBAAkB,CAClB,WAAY,CACZ,cAAe,CACf,eAAgB,CAChB,eAAiB,CACjB,qCAA0C","file":"main.58ec258a.chunk.css","sourcesContent":["#root {\n  margin: 5em auto 0;\n  padding: 1em;\n  font-size: 140%;\n  max-width: 800px;\n  background: white;\n  box-shadow: rgba(0, 0, 0, 0.05) 0 3px 15px;\n}\n"]}
